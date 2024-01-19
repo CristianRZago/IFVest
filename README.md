@@ -1,5 +1,5 @@
 # IFVest
-- Falta os seeders (será adicionado em 1 ou 2 dias, mas falta uma area e um topico)
+- Falta os seeders
 - ter a versão mais recente do node js
 - (recomendação) usar o cmd do gitbash
 - instalar o mysql (workbench e o server)
